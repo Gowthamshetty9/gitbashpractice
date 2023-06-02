@@ -5,12 +5,12 @@
       <![CDATA[haii]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-06-02T12:22:17 GFT" name="Default suite" finished-at="2023-06-02T12:22:17 GFT" duration-ms="86">
+  <suite started-at="2023-06-02T12:52:39 GFT" name="Default suite" finished-at="2023-06-02T12:52:39 GFT" duration-ms="117">
     <groups>
     </groups>
-    <test started-at="2023-06-02T12:22:17 GFT" name="Default test" finished-at="2023-06-02T12:22:17 GFT" duration-ms="86">
+    <test started-at="2023-06-02T12:52:39 GFT" name="Default test" finished-at="2023-06-02T12:52:39 GFT" duration-ms="117">
       <class name="gitbash.m1Test">
-        <test-method signature="t1()[pri:0, instance:gitbash.m1Test@6404f418]" started-at="2023-06-02T12:22:17 GFT" name="t1" finished-at="2023-06-02T12:22:17 GFT" duration-ms="19" status="PASS">
+        <test-method signature="t1()[pri:0, instance:gitbash.m1Test@194bcebf]" started-at="2023-06-02T12:52:39 GFT" name="t1" finished-at="2023-06-02T12:52:39 GFT" duration-ms="23" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[haii]]>

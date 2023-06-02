@@ -9,7 +9,7 @@ public class m1Test {
 	public void t1() {
 		// TODO Auto-generated method stub
    System.out.println("hii");
-   Reporter.log("haii",true);
+  // Reporter.log("haii",true);
 	}
   //done with changes
 }
