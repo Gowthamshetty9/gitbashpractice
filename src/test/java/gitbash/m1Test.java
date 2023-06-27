@@ -9,6 +9,7 @@ public class m1Test {
    System.out.println("hii");
    System.out.println("byee");
    System.out.println("hogu");
+   System.out.println("kanthakalla");
  
 	}
 }
