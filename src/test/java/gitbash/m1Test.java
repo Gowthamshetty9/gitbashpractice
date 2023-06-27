@@ -8,6 +8,7 @@ public class m1Test {
 	public void t1() {
    System.out.println("hii");
    System.out.println("byee");
+   System.out.println("hogu");
  
 	}
 }
