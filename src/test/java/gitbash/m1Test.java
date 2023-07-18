@@ -10,6 +10,5 @@ public class m1Test {
    System.out.println("byee");
    System.out.println("hogu");
    System.out.println("baa");
-   //sss
 	}
 }
